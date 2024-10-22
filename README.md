@@ -4,6 +4,8 @@ This project provides a remote display tool to aid in the development of LVGL (L
 
 It's also great for taking screenshots or capturing videos for demonstration purposes without having to rely on separate storage or IO. This library can be used on a bare ESP32 development board with nothing attached other than power.
 
+![Screenshot of the client interface](https://github.com/CubeCoders/LVGLRemoteServer/blob/main/ClientApp.png?raw=true)
+
 ## Features
 
 - **Remote Display Control**: Control LVGL applications from your desktop.
